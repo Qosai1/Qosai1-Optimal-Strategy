@@ -1,0 +1,4 @@
+This is a two-player game. There are even number of coins arranged in a row. There will be 
+alternate turns. In each turn, a player can either select the first coin in the row or the last coin in 
+the row and keep it with him. The objective of the problem is to determine the maximum 
+possible amount of money a player can definitely win, if he moves first.
